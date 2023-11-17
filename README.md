@@ -44,3 +44,56 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## use library Script
+
+//통신
+[redux-toollkit]
+`npm install @reduxjs/toolkit react-redux`
+
+//통신
+[react-redux]
+`npm install react-redux`
+
+//스토어저장
+[redux-persist]
+`npm i redux-persist @types/redux-persist`
+
+//통신
+[react-query]
+`npm i @types/react-query`
+
+//토큰
+[react-cookies]
+`npm install react-cookies --save`
+
+//라우터
+[react-router]
+`npm install react-router-dom @types/react-router-dom`
+
+//통신
+[react-axios]
+`npm install axios`
+
+//토큰
+[react-jwt]
+`npm install react-jwt`
+
+//입력폼
+[react-hook-form]
+`npm install react-hook-form`
+
+//입력 벨리데이션
+[react-yub]
+`npm install react-hook-form yup @hookform/resolvers`
+
+## use UI-Components library
+
+[styled-components]
+`npm install styled-components`
+
+['styled-reset']
+`npm i styled-reset`
+
+[react-bootStrap]
+`npm install react-bootstrap bootstrap`
